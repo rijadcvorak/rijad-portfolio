@@ -16,3 +16,31 @@ A clean, responsive, and performance-optimized personal portfolio and interactiv
 - **Tailwind CSS**
 - **Lucide React** for minimal iconography
 - **Motion** for subtle transitions and interactive cues
+
+## Getting Started
+
+First, clone and enter the path:
+
+```bash
+git clone https://github.com/rijadcvorak/rijad-portfolio.git
+cd rijad-portfolio
+```
+
+Install local dependencies and execute the development server:
+
+```bash
+npm install
+npm run dev
+```
+
+The application will run by default on `http://localhost:3000`.
+
+## Production Build
+
+To bundle the application for production hosting (such as GitHub Pages or Netlify):
+
+```bash
+npm run build
+```
+
+This yields a lightweight, static bundle inside the `dist/` directory, ready for deployment.
