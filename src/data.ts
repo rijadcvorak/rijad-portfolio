@@ -44,7 +44,7 @@ export const personalInfo = {
   dob: '14.03.2002',
   profile: 'I am a Computer Science and Mathematics student at the University of Sarajevo (Prirodno-Matematički Fakultet) with a strong foundation in software development, data structures, and algorithmic logic. I combine technical proficiency with extensive customer-facing and remote market research experience, and I am highly motivated to apply my analytical skills to remote, tech-driven roles.',
   github: 'https://github.com/rijadcvorak',
-  linkedin: 'www.linkedin.com/in/rijad-čvorak',
+  linkedin: 'https://www.linkedin.com/in/rijad-cvorak/',
   instagram: 'https://www.instagram.com/rijad.cvorak/'
 };
 
