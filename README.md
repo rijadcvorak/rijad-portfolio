@@ -1,4 +1,4 @@
-# Rijad Portfolio
+# Rijad's Portfolio
 
 A clean, responsive, and performance-optimized personal portfolio and interactive interactive CV. This workspace-grade single-page application is designed to showcase academic achievements, mathematical frameworks, and professional history in a compact, highly scanable layout.
 
